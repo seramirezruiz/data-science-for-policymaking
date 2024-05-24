@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📊 02 - Policy evaluation and impact assessment | | Data Science for Policy-Making |</title>
+    <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/</link>
+      <atom:link href="https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/index.xml" rel="self" type="application/rss+xml" />
+    <description>📊 02 - Policy evaluation and impact assessment</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://seramirezruiz.github.io/data-science-for-policymaking/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>📊 02 - Policy evaluation and impact assessment</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/</link>
+    </image>
+    
+    <item>
+      <title>01 - Causal reasoning for policy evaluation</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/1-causal-reasoning/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/1-causal-reasoning/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;To set the foundation for our thinking about policy evaluation, we will center on the concept of counterfactual thinking. We will discuss why it matters for effective policy analysis and approach the fundamental problem of causal inference. We start discussing experimental and observational designs to tackle causality.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>02 - Regression and DAGs</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/2-regression-and-dags/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/2-regression-and-dags/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;We will learn to use the graph framework to specify their assumptions about causal relationships between policy interventions and their outcomes, essential for accurately assessing the soundness of causal reasoning around policy effectiveness. We then discuss how to use regression for causal inference and how DAGs (directed acyclic graphs) can support effective confounder adjustment in the regression context.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>03 - Quasi-experiments</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/3-quasi-experiments/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/3-quasi-experiments/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In this session, we will turn to three classic sins of statistical reasoning: (1) bad sampling and misconceptions of representativity, (2) bad analytics and misleading obsession with statistical significance, and (3) bad inference and confusing correlation with causation. We will discuss how to spot those flaws in the wild and how to address them.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>04 - Crimes against causality</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/4-crimes-causality/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/4-crimes-causality/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This session rounds up our discussion of causal thinking for policy evaluation. We revisit some of the most notorious threats to internal and external validity by example and explore them interactively case by case&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
