@@ -9411,3 +9411,15 @@ div.chart {
 h1, h2, h3, h4 {
   color: #233658;
   font-weight: bold; }
+
+.hlred {
+  background-color: #c62736;
+  color: #FFFFFF;
+  font-weight: bold;
+  padding: 0 6px; }
+
+.hlblue {
+  background-color: #00245d;
+  color: #FFFFFF;
+  font-weight: bold;
+  padding: 0 6px; }

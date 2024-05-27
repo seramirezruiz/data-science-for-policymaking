@@ -11,11 +11,13 @@ weight: 2
 
 In this introductory session, we will approach data science and the data science pipeline. We will discuss what (data) science can contribute to public policy, and why it is key to foster good practices and to be able to call out flawed data-based reasoning. Finally, we consider the overall learning goals for this workshop.
 
+Download the materials: | [**.html**]() | [**.pdf**]() |
+
 ---
 
 ## Slides
 
-<iframe src="../xx.pdf#view=fit" width="100%" height="500px">
+<iframe src="../../../pdf-slides/d1s1-introduction.pdf#view=fit" width="100%" height="500px">
     </iframe>
 
 <!--

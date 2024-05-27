@@ -11,11 +11,13 @@ weight: 3
 
 In this session, we will discuss the bread and butter of descriptive and inferential statistics. The goal is to be able to make sense of (a) descriptive statistics, (b) statistical effects and significance, and (c) probability and uncertainty measures.
 
+Download the materials: | [**.html**]() | [**.pdf**]() |
+
 ---
 
 ## Slides
 
-<iframe src="../xx.pdf#view=fit" width="100%" height="500px">
+<iframe src="../../../pdf-slides/d1s2-consuming-statistics.pdf#view=fit" width="100%" height="500px">
     </iframe>
 
 <!--
