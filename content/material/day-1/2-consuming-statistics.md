@@ -11,7 +11,7 @@ weight: 3
 
 In this session, we will discuss the bread and butter of descriptive and inferential statistics. The goal is to be able to make sense of (a) descriptive statistics, (b) statistical effects and significance, and (c) probability and uncertainty measures.
 
-Download the materials: | [**.html**]() | [**.pdf**]() |
+Download the materials: | [**.html**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/slides/d1s2-consuming-statistics/d1s2-consuming-statistics.html) | [**.pdf**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/content/pdf-slides/d1s2-consuming-statistics.pdf) |
 
 ---
 

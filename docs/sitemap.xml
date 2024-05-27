@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/1-causal-reasoning/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/1-causal-reasoning/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/1-collection-and-storage/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/1-collection-and-storage/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,17 +18,22 @@
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/1-data-viz/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/1-ds-sr-and-pm/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/1-big-data/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/1-data-viz/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/1-evidence/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/1-big-data/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/1-evidence/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,52 +43,57 @@
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/2-data-viz-tools/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/2-consuming-statistics/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/2-evidence-synthesis/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/2-data-viz-tools/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/2-data-management/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/2-evidence-synthesis/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/2-ml/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/2-data-management/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/2-regression-and-dags/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/2-ml/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/3-finding-evidence/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/2-regression-and-dags/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/3-communication/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/3-finding-evidence/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/3-ethics/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/3-quasi-experiments/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/3-ethics/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/3-simulation/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/3-quasi-experiments/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/3-simulation/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,27 +103,32 @@
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/foundations/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/3-spotting-flawed/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/foundations/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/4-reporting/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/4-reporting/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/4-crimes-causality/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/4-crimes-causality/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/4-read-articles/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/4-read-articles/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/4-crimes-causality/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/4-crimes-causality/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +138,17 @@
   </url>
   
   <url>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,38 +158,28 @@
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/</loc>
+    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seramirezruiz.github.io/data-science-for-policymaking/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

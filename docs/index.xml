@@ -14,9 +14,9 @@
     
     <item>
       <title>01 - Causal reasoning for policy evaluation</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/1-causal-reasoning/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/1-causal-reasoning/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/1-causal-reasoning/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/1-causal-reasoning/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;To set the foundation for our thinking about policy evaluation, we will center on the concept of counterfactual thinking. We will discuss why it matters for effective policy analysis and approach the fundamental problem of causal inference. We start discussing experimental and observational designs to tackle causality.&lt;/p&gt;
 &lt;hr&gt;
@@ -76,9 +76,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>01 - Data Collection and Storage</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/1-collection-and-storage/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/1-collection-and-storage/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/1-collection-and-storage/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/1-collection-and-storage/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This session focuses on planning effective data collection methods and developing comprehensive data management plans (DMP). Participants will learn strategies to ensure data integrity and security throughout the data lifecycle&lt;/p&gt;
 &lt;hr&gt;
@@ -143,6 +143,69 @@ The variance of the distribution is $\sigma^{2}$.
       <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-1/1-ds-sr-and-pm/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this introductory session, we will approach data science and the data science pipeline. We will discuss what (data) science can contribute to public policy, and why it is key to foster good practices and to be able to call out flawed data-based reasoning. Finally, we consider the overall learning goals for this workshop.&lt;/p&gt;
+&lt;p&gt;Download the materials: | &lt;a href=&#34;https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/slides/d1s1-introduction/d1s1-introduction.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;.html&lt;/strong&gt;&lt;/a&gt; | &lt;a href=&#34;https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/content/pdf-slides/d1s1-introduction.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;.pdf&lt;/strong&gt;&lt;/a&gt; |&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../../../pdf-slides/d1s1-introduction.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>01 - Data science, statistical reasoning, and policy-making</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/1-ds-sr-and-pm/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/1-ds-sr-and-pm/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In this introductory session, we will approach data science and the data science pipeline. We will discuss what (data) science can contribute to public policy, and why it is key to foster good practices and to be able to call out flawed data-based reasoning. Finally, we consider the overall learning goals for this workshop.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
@@ -200,9 +263,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>01 - Principles of Data Visualization</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/1-data-viz/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/1-data-viz/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/1-data-viz/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/1-data-viz/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this session, we delve into the importance of effective data visualization and its role as a method for conveying information. Participants will learn about the essential ingredients of impactful visualizations and how these can be applied to policy analysis and communication.&lt;/p&gt;
 &lt;hr&gt;
@@ -262,9 +325,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>01 - The promises and perils of big data</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/1-big-data/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/1-big-data/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/1-big-data/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/1-big-data/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;We start the day with getting an overview of AI technologies and their basis – large corpora of (un-)structured data. We discuss the big data paradox and what it means for assessing big-data-based evidence for policy. Furthermore, we briefly look into the potential of AI for governance.&lt;/p&gt;
 &lt;hr&gt;
@@ -324,9 +387,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>01 - What is evidence? And, how can it inform policy?</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/1-evidence/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/1-evidence/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/1-evidence/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/1-evidence/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this session, we discuss the nature and types of evidence, including anecdotal, qualitative, and quantitative insights. Participants will learn think about indicators of progress and measures of effectiveness in monitoring and evaluation (M&amp;amp;E).We will also cover the models under which research insights feed into policy recommendations.&lt;/p&gt;
 &lt;hr&gt;
@@ -391,6 +454,69 @@ The variance of the distribution is $\sigma^{2}$.
       <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-1/2-consuming-statistics/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this session, we will discuss the bread and butter of descriptive and inferential statistics. The goal is to be able to make sense of (a) descriptive statistics, (b) statistical effects and significance, and (c) probability and uncertainty measures.&lt;/p&gt;
+&lt;p&gt;Download the materials: | &lt;a href=&#34;https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/slides/d1s2-consuming-statistics/d1s2-consuming-statistics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;.html&lt;/strong&gt;&lt;/a&gt; | &lt;a href=&#34;https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/content/pdf-slides/d1s2-consuming-statistics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;.pdf&lt;/strong&gt;&lt;/a&gt; |&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../../../pdf-slides/d1s2-consuming-statistics.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>02 - Consuming statistics</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/2-consuming-statistics/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/2-consuming-statistics/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In this session, we will discuss the bread and butter of descriptive and inferential statistics. The goal is to be able to make sense of (a) descriptive statistics, (b) statistical effects and significance, and (c) probability and uncertainty measures.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
@@ -448,9 +574,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>02 - Data Visualization Tools and Techniques</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/2-data-viz-tools/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/2-data-viz-tools/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/2-data-viz-tools/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/2-data-viz-tools/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;h2 id=&#34;this-session-introduces-design-principles-for-creating-clear-and-effective-graphs-we-will-cover-how-to-choose-the-appropriate-type-of-visualization-for-your-data-best-practices-for-labeling-coloring-and-annotating-visualizations-and-explore-popular-data-visualization-tools-such-as-ggplot2&#34;&gt;This session introduces design principles for creating clear and effective graphs. We will cover how to choose the appropriate type of visualization for your data, best practices for labeling, coloring, and annotating visualizations, and explore popular data visualization tools such as &lt;code&gt;ggplot2&lt;/code&gt;.&lt;/h2&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
@@ -509,9 +635,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>02 - Evidence Synthesis and Meta-Analysis</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/2-evidence-synthesis/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/2-evidence-synthesis/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/2-evidence-synthesis/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/2-evidence-synthesis/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This session introduces participants to narrative reviews, systematic reviews, and meta-analysis. We will explore how to combine evidence from multiple studies and interpret findings from meta-analytic studies, enhancing the ability to draw robust conclusions from existing research.&lt;/p&gt;
 &lt;hr&gt;
@@ -571,9 +697,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>02 - Guiding Principles for Data Management</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/2-data-management/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/2-data-management/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/2-data-management/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/2-data-management/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this session, we explore the FAIR principles (Findability, Accessibility, Interoperability, and Reuse) for data management. Topics include open data, archiving and publishing practices, compliance with data protection regulations, and techniques for discovering and accessing data.&lt;/p&gt;
 &lt;hr&gt;
@@ -633,9 +759,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>02 - Machine learning 101</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/2-ml/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/2-ml/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/2-ml/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/2-ml/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This session provides a primer to machine learning (ML). We study the logic of prediction and predictive modeling and get an overview of the vast array of ML models. Finally, we learn the basics of consuming ML research and of assessing performance and external validity of ML-based designs.&lt;/p&gt;
 &lt;hr&gt;
@@ -695,9 +821,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>02 - Regression and DAGs</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/2-regression-and-dags/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/2-regression-and-dags/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/2-regression-and-dags/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/2-regression-and-dags/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;We will learn to use the graph framework to specify their assumptions about causal relationships between policy interventions and their outcomes, essential for accurately assessing the soundness of causal reasoning around policy effectiveness. We then discuss how to use regression for causal inference and how DAGs (directed acyclic graphs) can support effective confounder adjustment in the regression context.&lt;/p&gt;
 &lt;hr&gt;
@@ -757,9 +883,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>03 - A Practical Workshop for Effective Research</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/3-finding-evidence/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/3-finding-evidence/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/3-finding-evidence/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/3-finding-evidence/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This hands-on workshop focuses on compiling and sorting academic and policy evidence. Participants will learn effective search strategies, methods for evaluating sources, and the use of AI tools for literature mapping, aiming to improve their research efficiency and accuracy.&lt;/p&gt;
 &lt;hr&gt;
@@ -819,9 +945,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>03 - Communicating and Reporting Strategies I</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/3-communication/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/3-communication/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;h2 id=&#34;in-this-session-we-focus-on-the-various-strategies-for-communicating-data-science-topics-include-statistical-communication-written-communication-and-interactive-communication-through-dashboards-all-aimed-at-effectively-conveying-complex-data-insights&#34;&gt;In this session, we focus on the various strategies for communicating data science. Topics include statistical communication, written communication, and interactive communication through dashboards, all aimed at effectively conveying complex data insights.&lt;/h2&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
@@ -880,9 +1006,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>03 - Ethical Considerations in Data Science</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/3-ethics/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/3-ethics/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/3-ethics/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/3-ethics/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This session covers the core principles of data ethics and how they apply to everyday practices in data science. Participants will discuss research ethics, fairness in data science, and practical approaches to ensuring ethical standards are maintained in their work.&lt;/p&gt;
 &lt;hr&gt;
@@ -942,9 +1068,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>03 - Quasi-experiments</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/3-quasi-experiments/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/3-quasi-experiments/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/3-quasi-experiments/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/3-quasi-experiments/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this session, we will turn to three classic sins of statistical reasoning: (1) bad sampling and misconceptions of representativity, (2) bad analytics and misleading obsession with statistical significance, and (3) bad inference and confusing correlation with causation. We will discuss how to spot those flaws in the wild and how to address them.&lt;/p&gt;
 &lt;hr&gt;
@@ -1004,9 +1130,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>03 - Solving policy challenges with evidence</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/3-simulation/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/3-simulation/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/3-simulation/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/3-simulation/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this interactive session, participants are confronted with a policy challenge. In teams, they have to evaluate and present evidence on the impact of several policy options, applying the skills and tools they have learned in the previous sessions. Based on this, they develop an evaluation design to optimize findings on the desired and undesired effects of the policy and incorporate them into decisions in the policy-making process.&lt;/p&gt;
 &lt;hr&gt;
@@ -1118,6 +1244,69 @@ The variance of the distribution is $\sigma^{2}$.
       <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-1/3-spotting-flawed/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this session, we will turn to three classic sins of statistical reasoning: (1) bad sampling and misconceptions of representativity, (2) bad analytics and misleading obsession with statistical significance, and (3) bad inference and confusing correlation with causation. We will discuss how to spot those flaws in the wild and how to address them.&lt;/p&gt;
+&lt;p&gt;Download the materials: | &lt;a href=&#34;https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/slides/d1s3-flawed-statistical-reasoning/d1s3-flawed-statistical-reasoning.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;.html&lt;/strong&gt;&lt;/a&gt; | &lt;a href=&#34;https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/content/pdf-slides/d1s3-flawed-statistical-reasoning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;.pdf&lt;/strong&gt;&lt;/a&gt; |&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../../../pdf-slides/d1s3-flawed-statistical-reasoning.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>03 - Spotting flawed statistical reasoning</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/3-spotting-flawed/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-1/3-spotting-flawed/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In this session, we will turn to three classic sins of statistical reasoning: (1) bad sampling and misconceptions of representativity, (2) bad analytics and misleading obsession with statistical significance, and (3) bad inference and confusing correlation with causation. We will discuss how to spot those flaws in the wild and how to address them.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
@@ -1175,9 +1364,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>R and RStudio basics</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/foundations/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/foundations/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-3/foundations/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-3/foundations/</guid>
       <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;
 &lt;p&gt;The practical component of the &lt;strong&gt;Statistics II: Statistical Modeling and Causal Inference&lt;/strong&gt; course relies largely in &lt;em&gt;R&lt;/em&gt; programming. Today we will center on some of the necessary skills to perform the assignments for the course.&lt;/p&gt;
 &lt;p&gt;In this tutorial, you will learn to:&lt;/p&gt;
@@ -1390,9 +1579,9 @@ your_data_frame &amp;lt;- base::readRDS(&amp;quot;path_for_the_file&amp;quot;)
     
     <item>
       <title>04 - Communicating and Reporting Strategies II</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/4-reporting/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/4-reporting/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-5/4-reporting/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/4-reporting/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Building on the previous session, this session covers reporting requirements and formats for different audiences. We will discuss how to present data to facilitate individual and institutional learning, ensure accessibility, and support the use of insights through clear recommendations and support mechanisms.&lt;/p&gt;
 &lt;hr&gt;
@@ -1404,9 +1593,9 @@ your_data_frame &amp;lt;- base::readRDS(&amp;quot;path_for_the_file&amp;quot;)
     
     <item>
       <title>04 - Crimes against causality</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/4-crimes-causality/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/4-crimes-causality/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-2/4-crimes-causality/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-2/4-crimes-causality/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This session rounds up our discussion of causal thinking for policy evaluation. We revisit some of the most notorious threats to internal and external validity by example and explore them interactively case by case&lt;/p&gt;
 &lt;hr&gt;
@@ -1418,9 +1607,9 @@ your_data_frame &amp;lt;- base::readRDS(&amp;quot;path_for_the_file&amp;quot;)
     
     <item>
       <title>04 - How to read an academic study?</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/4-read-articles/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/4-read-articles/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-4/4-read-articles/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-4/4-read-articles/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this session, we guide participants through the process of reading and understanding academic articles. Key skills include identifying the main arguments, evaluating the methodology, and assessing the significance and relevance of the findings for policy and practice.&lt;/p&gt;
 &lt;hr&gt;
@@ -1432,144 +1621,15 @@ your_data_frame &amp;lt;- base::readRDS(&amp;quot;path_for_the_file&amp;quot;)
     
     <item>
       <title>04 - Spotting flawed statistical reasoning</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/4-crimes-causality/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/4-crimes-causality/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/4-crimes-causality/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-6/4-crimes-causality/</guid>
       <description>&lt;h2 id=&#34;session-description&#34;&gt;Session description&lt;/h2&gt;
 &lt;p&gt;In this session, we will turn to three classic sins of statistical reasoning: (1) bad sampling and misconceptions of representativity, (2) bad analytics and misleading obsession with statistical significance, and (3) bad inference and confusing correlation with causation. We will discuss how to spot those flaws in the wild and how to address them.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
     &lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

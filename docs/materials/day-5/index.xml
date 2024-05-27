@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📊 05 - Data visualization and communication | | Data Science for Policy-Making |</title>
+    <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/</link>
+      <atom:link href="https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/index.xml" rel="self" type="application/rss+xml" />
+    <description>📊 05 - Data visualization and communication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://seramirezruiz.github.io/data-science-for-policymaking/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>📊 05 - Data visualization and communication</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/</link>
+    </image>
+    
+    <item>
+      <title>01 - Principles of Data Visualization</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/1-data-viz/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/1-data-viz/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In this session, we delve into the importance of effective data visualization and its role as a method for conveying information. Participants will learn about the essential ingredients of impactful visualizations and how these can be applied to policy analysis and communication.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>02 - Data Visualization Tools and Techniques</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/2-data-viz-tools/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/2-data-viz-tools/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;this-session-introduces-design-principles-for-creating-clear-and-effective-graphs-we-will-cover-how-to-choose-the-appropriate-type-of-visualization-for-your-data-best-practices-for-labeling-coloring-and-annotating-visualizations-and-explore-popular-data-visualization-tools-such-as-ggplot2&#34;&gt;This session introduces design principles for creating clear and effective graphs. We will cover how to choose the appropriate type of visualization for your data, best practices for labeling, coloring, and annotating visualizations, and explore popular data visualization tools such as &lt;code&gt;ggplot2&lt;/code&gt;.&lt;/h2&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>03 - Communicating and Reporting Strategies I</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;in-this-session-we-focus-on-the-various-strategies-for-communicating-data-science-topics-include-statistical-communication-written-communication-and-interactive-communication-through-dashboards-all-aimed-at-effectively-conveying-complex-data-insights&#34;&gt;In this session, we focus on the various strategies for communicating data science. Topics include statistical communication, written communication, and interactive communication through dashboards, all aimed at effectively conveying complex data insights.&lt;/h2&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>04 - Communicating and Reporting Strategies II</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/4-reporting/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/4-reporting/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Building on the previous session, this session covers reporting requirements and formats for different audiences. We will discuss how to present data to facilitate individual and institutional learning, ensure accessibility, and support the use of insights through clear recommendations and support mechanisms.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
