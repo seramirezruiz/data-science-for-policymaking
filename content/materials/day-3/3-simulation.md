@@ -52,9 +52,8 @@ In this interactive session, participants are confronted with a policy challenge
 | 🔬 Academic articles | Fosgerau et al. "Bikeability and the induced demand for cycling." *PNAS* (2023) | [link](https://www.pnas.org/doi/full/10.1073/pnas.2220515120) |
 | 🔬 Academic articles | Kraus, S., & Koch, N. "Provisional COVID-19 infrastructure induces large, rapid increases in cycling." *PNAS* (2021) | [link](https://www.pnas.org/doi/10.1073/pnas.2024399118) |
 | 🔬 Academic articles | Rich et al. "Cost-benefit of bicycle infrastructure with e-bikes and cycle superhighways." *Case Studies on Transport Policy* (2021) | [link](https://doi.org/10.1016/j.cstp.2021.02.015) |
-| 💬 Policy briefs and interest groups | M&E of Victoria's pop-up bike lanes - Bicycle Network | [link](https://www.bicyclenetwork.com.au/wp-content/uploads/2021/07/BN_pop-up_lane_submission.pdf) |
-| 💬 Policy briefs and interest groups | The cost of bike lanes: Millions of your money spent on vanity projects for the 1% | [link](https://www.johnlocke.org/wp-content/uploads/2017/08/Spotlight-478-Bike-lanes-r2.pdf) |
-
+| 💬 Policy briefs and interest groups | M&E of Victoria's pop-up bike lanes - *Bicycle Network* | [link](https://www.bicyclenetwork.com.au/wp-content/uploads/2021/07/BN_pop-up_lane_submission.pdf) |
+| 💬 Policy briefs and interest groups | The cost of bike lanes: Millions of your money spent on vanity projects for the 1% - *John Locke Foundation* | [link](https://www.johnlocke.org/wp-content/uploads/2017/08/Spotlight-478-Bike-lanes-r2.pdf) |
 
 
 ---
