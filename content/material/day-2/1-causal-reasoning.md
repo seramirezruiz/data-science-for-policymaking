@@ -11,7 +11,7 @@ weight: 2
 
 To set the foundation for our thinking about policy evaluation, we will center on the concept of counterfactual thinking. We will discuss why it matters for effective policy analysis and approach the fundamental problem of causal inference. We start discussing experimental and observational designs to tackle causality.
 
-Download the materials: | [**.html**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/slides/d1s3-flawed-statistical-reasoning/d1s3-flawed-statistical-reasoning.html) | [**.pdf**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/content/pdf-slides/d1s3-flawed-statistical-reasoning.pdf) |
+Download the materials: | [**.html**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/6167e291b607dfafa76482a6bde92d390648ba97/slides/d2s1-causal-reasoning/d2s1-causal-reasoning.html) | [**.pdf**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/6167e291b607dfafa76482a6bde92d390648ba97/slides/d2s1-causal-reasoning/d2s1-causal-reasoning.pdf) |
 
 
 ---

@@ -11,7 +11,7 @@ weight: 3
 
 We will learn to use the graph framework to specify their assumptions about causal relationships between policy interventions and their outcomes, essential for accurately assessing the soundness of causal reasoning around policy effectiveness. We then discuss how to use regression for causal inference and how DAGs (directed acyclic graphs) can support effective confounder adjustment in the regression context.
 
-Download the materials: | [**.html**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/slides/d1s3-flawed-statistical-reasoning/d1s3-flawed-statistical-reasoning.html) | [**.pdf**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/fc861ae1104238644b4653072c0b15c1f7cd3997/content/pdf-slides/d1s3-flawed-statistical-reasoning.pdf) |
+Download the materials: | [**.html**](https://rawcdn.githack.com/seramirezruiz/data-science-for-policymaking/6167e291b607dfafa76482a6bde92d390648ba97/slides/d2s2-regression/d2s2-regression.html) | [**.pdf**](https://github.com/seramirezruiz/data-science-for-policymaking/blob/main/slides/d2s2-regression/d2s2-regression.pdf) |
 
 
 ---
