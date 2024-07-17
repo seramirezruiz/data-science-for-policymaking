@@ -22,10 +22,10 @@ In this interactive session, participants are confronted with a policy challenge
 
 | Time | Session |
 |------|---------|
-| 14:00-14:15     | Introduction of the Challenge, formations of Teams .hlred[Red]/.hlblue[Blue]      |
-| 14:15-14:30     | Group work: Making a normative case for the policy        |
-| 14:30-15:00     | Policy pitches        |
-| 15:00-15:45    | Group work: Making an evidence-based case the policy       |
+| 14:15-14:30     | Introduction of the Challenge, formations of Teams .hlred[Red]/.hlblue[Blue]      |
+| 14:30-14:45     | Group work: Making a normative case for the policy        |
+| 14:45-15:15     | Policy pitches        |
+| 15:15-15:45    | Group work: Making an evidence-based case the policy       |
 | 15:45-16:00     | Coffee break       |
 | 16:00-16:30     | Evidence pitches       |
 | 16:30-17:00     | Adversarial collaboration for better informed policy-making      |

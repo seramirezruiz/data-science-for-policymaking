@@ -13,15 +13,15 @@
     </image>
     
     <item>
-      <title>01 - Data Collection and Storage</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/1-collection-and-storage/</link>
+      <title>01 - Ethical considerations in data science</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/1-ethics-and-fairness/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/1-collection-and-storage/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/1-ethics-and-fairness/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This session focuses on planning effective data collection methods and developing comprehensive data management plans (DMP). Participants will learn strategies to ensure data integrity and security throughout the data lifecycle&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+&lt;iframe src=&#34;../d6s1-ethics-and-fairness.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
     &lt;/iframe&gt;
 &lt;!--
 ## Courses in this program
@@ -75,15 +75,77 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>02 - Guiding Principles for Data Management</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/2-data-management/</link>
+      <title>02 - Guiding Principles for Data Management I</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/2-collection-and-storage/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/2-data-management/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/2-collection-and-storage/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This session focuses on planning effective data collection methods and developing comprehensive data management plans (DMP). Participants will learn strategies to ensure data integrity and security throughout the data lifecycle&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;iframe src=&#34;../d6s2-data-plan.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+    &lt;/iframe&gt;
+&lt;!--
+## Courses in this program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>03 - Guiding Principles for Data Management II</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/3-data-management/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/3-data-management/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;In this session, we explore the FAIR principles (Findability, Accessibility, Interoperability, and Reuse) for data management. Topics include open data, archiving and publishing practices, compliance with data protection regulations, and techniques for discovering and accessing data.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+&lt;iframe src=&#34;../d6s3-data-management-and-reg.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
     &lt;/iframe&gt;
 &lt;!--
 ## Courses in this program
@@ -137,15 +199,15 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>03 - Ethical Considerations in Data Science</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/3-ethics/</link>
+      <title>04 - Closing</title>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/4-closing/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/3-ethics/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/4-closing/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;This session covers the core principles of data ethics and how they apply to everyday practices in data science. Participants will discuss research ethics, fairness in data science, and practical approaches to ensuring ethical standards are maintained in their work.&lt;/p&gt;
+&lt;p&gt;This session goes over all the concepts covered across the workshop&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
+&lt;iframe src=&#34;../d6s4-closing.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
     &lt;/iframe&gt;
 &lt;!--
 ## Courses in this program
@@ -195,20 +257,6 @@ The variance of the distribution is $\sigma^{2}$.
 &lt;/div&gt;
 
 --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>04 - Spotting flawed statistical reasoning</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/4-crimes-causality/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/material/day-6/4-crimes-causality/</guid>
-      <description>&lt;h2 id=&#34;session-description&#34;&gt;Session description&lt;/h2&gt;
-&lt;p&gt;In this session, we will turn to three classic sins of statistical reasoning: (1) bad sampling and misconceptions of representativity, (2) bad analytics and misleading obsession with statistical significance, and (3) bad inference and confusing correlation with causation. We will discuss how to spot those flaws in the wild and how to address them.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
-    &lt;/iframe&gt;
 </description>
     </item>
     

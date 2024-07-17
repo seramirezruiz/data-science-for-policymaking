@@ -137,9 +137,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>03 - Communicating and Reporting Strategies I</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication/</link>
+      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication-and-reporting/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication/</guid>
+      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/3-communication-and-reporting/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;h2 id=&#34;in-this-session-we-focus-on-the-various-strategies-for-communicating-data-science-topics-include-statistical-communication-written-communication-and-interactive-communication-through-dashboards-all-aimed-at-effectively-conveying-complex-data-insights&#34;&gt;In this session, we focus on the various strategies for communicating data science. Topics include statistical communication, written communication, and interactive communication through dashboards, all aimed at effectively conveying complex data insights.&lt;/h2&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
@@ -193,20 +193,6 @@ The variance of the distribution is $\sigma^{2}$.
 &lt;/div&gt;
 
 --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>04 - Communicating and Reporting Strategies II</title>
-      <link>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/4-reporting/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://seramirezruiz.github.io/data-science-for-policymaking/materials/day-5/4-reporting/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Building on the previous session, this session covers reporting requirements and formats for different audiences. We will discuss how to present data to facilitate individual and institutional learning, ensure accessibility, and support the use of insights through clear recommendations and support mechanisms.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-&lt;iframe src=&#34;../xx.pdf#view=fit&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;
-    &lt;/iframe&gt;
 </description>
     </item>
     
